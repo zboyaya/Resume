@@ -23,8 +23,13 @@ Don't lie. If you do, I promise that you'll eventually get caught.
 3. Notice
 Final bonus tip:
 
-The resume sets the course for your interviews. 
+3.1 The resume sets the course for your interviews. 
 It should all be good, but try to be aware of which 2-3 things really stand out. 
 When you have a few very strong bullet points, many interviewers will naturally ask you about them. 
 As a concrete example, my resume mentions that I sped up one of LinkedIn's core algorithms by 200x. Even though that happened at the very beginning of my career, I would say something like 60% of interviewers ask me about that single bullet point and nothing else. Understanding that people are curious and will ask you about the most interesting things on your resume means that you can really polish up your responses and give a great first impression.
-
+3.2 I don’t get it why people are so obsessed with CVs instead of building things that impress on a CV no matter how it looks. Most big software companies have a lot of open source projects right now that are used by them internally.
+Working on those open source projects seems like the best way to prove yourself that you can do a good job at those companies. It’s almost like doing an internship for them. If you actually improve some of their projects and your changes will get to be used by people, then you are quite qualified to work for them.
+If you are interested in Microsoft technologies, they have a lot of open source projects right now: Entity Framework Core, Asp .Net Core, .net, Visual Studio Code and so on. Just browse their entire .net page at GitHub.
+Facebook also has a lot of open source projects. They have a dedicated page for that. Try working on one of those open source projects.
+In the end, what do you expect you will do if you get hired at these big companies. You will work on similar projects like their open source projects. If you can’t work on their open source projects at all what makes you think you are qualified to actually work for them and produce results. They are interested in people that can work on the kind of stuff they produce.
+As long as you can prove that you can work on the stuff that they make and write that down in your CV for recruiters to find it easily, in the first 2 pages, then you will at least get a telephonic interview with them.
