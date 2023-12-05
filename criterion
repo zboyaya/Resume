@@ -4,4 +4,27 @@ Criterion
   how: Go to LinkedIn. Find 10 software engineers who work at Google, Amazon, or Tesla. Make sure they’ve worked there for a minimum of 5 years.
        Copy and paste all of their profiles from LinkedIn. Rework the wording and experience over to your past experience.
        Change some of the systems and programming languages. Save your resume in a pdf format.
-2. 
+2. Warning
+  Discuss benefits, not features. Your resume is a marketing piece, and you should treat it as such. If you're trying to sell a car, you won't get far by telling people how great the spark plugs are and how it "runs well." Instead, you could talk about how it smoothly handles tight curves at 50mph and how the parts are of such a high quality that the car won't need any scheduled maintenance for the first 10 years. In terms of your resume, don't focus on the spark plug details ("I implemented FooBar with C++ and STL") nor on the generic descriptions ("Designed and implemented custom solutions for an important client."). Instead, talk about how you improved the performance of something by 25x, or how you reduced the QA cycle from 2 days to 3 hours, or how it took you four months to implement the company's flagship product which is responsible for 45% of all revenue. These are the kinds of benefits that employers drool at.
+Put the most important things first. If someone is skimming your resume, you want to hook their attention ASAP. If you have a two-page resume and the second page has lots of great content while the first page is boring, then that's a big waste -- most people won't even get to your second page. Concrete tips:
+Your most recent work should generally go before your earlier work.
+Within each job's section, put major accomplishments ahead of minor accomplishments (or better yet, just delete the minor accomplishments)
+Your education generally comes after work experience, but if your education is awesome (3.9 GPA at Stanford) while your work experience is lukewarm, then put education first.
+
+A few other tips (some of which have already been covered):
+
+1-2 pages is fine, 3+ pages is annoying.
+Spell check and grammar check several times, then ask a few friends to proofread your final product.
+Take out all of the fluff. Don't write things like "interfaced with members of QA" and "worked closely with product managers" -- that just waters down the quality of your resume. On a side note, the "Objective" statement that's found in traditional resumes is usually fluff.
+Try to make it look nice. It doesn't have to look like it was made by a UI designer, but stick to 1 font, make your sections consistent, etc.
+Use web-style writing, not prose. Bullet points, numbering, tasteful usage of bolding and italics, etc., can make a resume much easier to scan. Someone should be able to figure what school you went to and what roles you've had at different companies within 5-10 seconds of looking at you resume.
+Don't lie. If you do, I promise that you'll eventually get caught.
+
+3. Notice
+Final bonus tip:
+
+The resume sets the course for your interviews. 
+It should all be good, but try to be aware of which 2-3 things really stand out. 
+When you have a few very strong bullet points, many interviewers will naturally ask you about them. 
+As a concrete example, my resume mentions that I sped up one of LinkedIn's core algorithms by 200x. Even though that happened at the very beginning of my career, I would say something like 60% of interviewers ask me about that single bullet point and nothing else. Understanding that people are curious and will ask you about the most interesting things on your resume means that you can really polish up your responses and give a great first impression.
+
